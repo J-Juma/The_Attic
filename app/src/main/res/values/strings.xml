@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The Attic</string>
+    <string name="action_settings">Settings</string>
+    <string name="already_registered_login">Already registered ? Login</string>
+    <string name="register_btn">Register</string>
+    <string name="register_title">Register</string>
+    <string name="password_hint">password</string>
+    <string name="email_hint">email</string>
+    <string name="username_hint">username</string>
+    <string name="login">Login</string>
+    <string name="no_account_sign_up">No Account ? Sign up</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="delete_post">delete post</string>
+    <string name="post_description">Post Description</string>
+    <string name="post_title">Post Title</string>
+    <string name="addpost">Add Post</string>
+</resources>

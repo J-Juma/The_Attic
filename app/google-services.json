@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872502829406",
+    "project_id": "the-attic-28b22",
+    "storage_bucket": "the-attic-28b22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872502829406:android:103b4dba1e5cf3f5a8afcf",
+        "android_client_info": {
+          "package_name": "com.hfad.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872502829406-f7m5brn3o7simjgn2mde78m9e6n46afs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuZtspEK9yktNYPb8ifkBkn16HSr-EkdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872502829406-f7m5brn3o7simjgn2mde78m9e6n46afs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
